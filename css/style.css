@@ -1,0 +1,41 @@
+
+/*Header styles*/
+.header{
+    background-color: blue;
+}
+/*styling the admin image*/ 
+.admin{
+    max-width: 15%;
+    border-radius:50%;
+    position: relative;
+    right:10px;
+    top:10px;
+}
+
+.text{
+    position: relative;
+    right:20px;
+    top:5px;
+    color:white;
+}
+/*styling the hamburger menu*/
+.font-icon{
+    font-size:2em;
+    color:white;
+    position: relative;
+    left: 20px;
+    top: 17px;   
+}
+/*styling the search bar*/
+input{
+width:100%;
+margin-top: 20px;
+}
+
+/*positioning and styling the search icon*/
+.search-icon{
+    font-size: 1.5em;
+    position: absolute;
+    right:23px;
+    top:27px;
+}
